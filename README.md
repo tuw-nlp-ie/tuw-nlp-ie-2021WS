@@ -5,12 +5,13 @@ Fridays, 13.15 - 14.45, online, see [TUWEL](https://tuwel.tuwien.ac.at/course/vi
 
 ## Instructors
 
-- Alaa El-Ebshihy
-- Allan Hanbury
-- Adam Kovacs
-- Annisa Maulida Ningtyas
-- Florina Piroi
-- Gabor Recski
+- [Alaa El-Ebshihy](https://tiss.tuwien.ac.at/person/334096.html)
+- [Kinga Gemes](https://tiss.tuwien.ac.at/person/341880.html)
+- [Allan Hanbury](https://tiss.tuwien.ac.at/person/48222.html)
+- [Adam Kovacs](https://tiss.tuwien.ac.at/person/341881.html)
+- [Annisa Maulida Ningtyas](https://tiss.tuwien.ac.at/person/332450.html)
+- [Florina Piroi](https://tiss.tuwien.ac.at/person/239780.html)
+- [Gabor Recski](https://tiss.tuwien.ac.at/person/336863.html)
 
 
 ### Schedule and lecture material
