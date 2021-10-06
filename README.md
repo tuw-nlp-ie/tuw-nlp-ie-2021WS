@@ -36,5 +36,5 @@ Date|Topic|
 
 ### Project
 
-See [project description]() and [technical instructions]()
+See [project description](project/NLP_IE2021_Exercise.pdf)
 
