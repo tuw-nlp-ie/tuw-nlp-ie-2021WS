@@ -16,8 +16,8 @@ Fridays, 13.15 - 14.45, online, see [TUWEL](https://tuwel.tuwien.ac.at/course/vi
 
 ### Schedule and lecture material
 
-Date|Topic|
-----|-----|
+Date|Topic| |
+----|-----|--|
 10/8/2021 | Vorbesprechung + Intro to NLP | |
 10/15/2021 | [Text processing](lectures/01_Text_processing) | |
 10/22/2021 | [Text classification](lectures/02_Text_classification) | |
