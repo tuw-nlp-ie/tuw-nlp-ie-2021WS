@@ -22,7 +22,7 @@ Date|Topic| |
 10/15/2021 | [Text processing](lectures/01_Text_processing) | |
 10/22/2021 | [Text classification](lectures/02_Text_classification) | |
 10/29/2021 | [Deep learning for NLP I.](lectures/03_DL_NLP)| |
-11/5/2021 | Deep learning for NLP II.| |
+11/5/2021 | [Deep learning for NLP II.](lectures/04_DL_NLP)| |
 11/12/2021 | Deep learning - practical lesson | Deadline for project milestone 1|
 11/19/2021 | Syntax: constituency and dependency | |
 11/26/2021 | Semantics: overview | |
