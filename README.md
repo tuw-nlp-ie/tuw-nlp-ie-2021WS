@@ -29,9 +29,9 @@ Date|Topic| |
 12/03/2021 | Information Extraction | Deadline for project milestone 2|
 12/10/2021 | Annotation basics and challenges| |
 12/17/2021 | Summarization and keyword extraction | |
-1/7/2022 | Question Answering, chatbots: general design, challenges| |
-1/14/2022 | Project presentations | Deadline for project presentations |
-1/21/2022 | | Deadline for final submission |
+1/14/2022 | Question Answering, chatbots: general design, challenges| |
+1/21/2022 | Project presentations | Deadline for project presentations |
+1/28/2022 | | Deadline for final submission |
 
 
 ### Project
