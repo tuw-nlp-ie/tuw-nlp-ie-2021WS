@@ -25,7 +25,7 @@ Date|Topic| |
 11/5/2021 | [Deep learning for NLP II.](lectures/04_DL_NLP)| |
 11/12/2021 | [Deep learning - practical lesson](lectures/05_DL_PR) | Deadline for project milestone 1|
 11/19/2021 | [Syntax: constituency and dependency](lectures/06_Syntax) | |
-11/26/2021 | Semantics: overview | |
+11/26/2021 | [Semantics: overview](lectures/07_Semantics) | |
 12/03/2021 | Information Extraction | Deadline for project milestone 2|
 12/10/2021 | Annotation basics and challenges| |
 12/17/2021 | Summarization and keyword extraction | |
